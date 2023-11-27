@@ -1,6 +1,6 @@
 Hello, my name is Sicheng He and I will be a master's student in University of Southern California, majoring in Computer Science.
 
-- [CV](https://hesic73.github.io/files/resume.pdf)
+- [CV](https://hesic73.github.io/assets/resume.pdf)
 
 
 
