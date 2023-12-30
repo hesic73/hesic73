@@ -23,15 +23,22 @@ Hello, I'm now a master's student at University of Southern California, majoring
 
 ## 💻 Technologies
 <p>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+</p>
+
+<p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://github.com/detain/svg-logos/blob/master/svg/l/latex.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" width="40" height="40"/>
+</p>
+
+<p>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<!--   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40"/> -->
-  <img src="https://github.com/detain/svg-logos/blob/master/svg/l/latex.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=hesic73)
