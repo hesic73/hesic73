@@ -30,6 +30,7 @@ Hello, I'm now a master's student at University of Southern California, majoring
 
 <p>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://github.com/hesic73/hesic73/blob/master/assets/markdown-fill-svgrepo-com.svg" width="40" height="40"/>
 <img src="https://github.com/detain/svg-logos/blob/master/svg/l/latex.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" width="40" height="40"/>
