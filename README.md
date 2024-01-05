@@ -11,7 +11,7 @@ Hello, I'm now a master's student at University of Southern California, majoring
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 - [Curriculum Vitae](https://hesic73.github.io/assets/resume.pdf)
-- [Blogs (in Chinese)](https://hesic73.github.io/blogs/)
+- [Blog (in Chinese)](https://hesic73.github.io/blog/)
 
 <a href="https://github.com/hesic73/gomoku_rl">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hesic73&repo=gomoku_rl&theme=buefy" />
