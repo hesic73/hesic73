@@ -4,7 +4,7 @@ Hello, I'm now a master's student at University of Southern California, majoring
 
 - My primary area of interest is Reinforcement Learning and its applications.
 - I use `Python` `C++`.
-- I'm exploring the new features introduced in C++ 20/23.
+- ~~I'm exploring the new features introduced in C++ 20/23.~~ I'm learning `Rust`.
 - I'm peacefully solving LeetCode problems.
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=hesic73&show_icons=true&hide_border=true" /> | <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=hesic73&hide=css,scss&exclude_repo=hesic73,blog,hesic73.github.io&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true" /> |
