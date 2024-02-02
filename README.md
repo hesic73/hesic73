@@ -1,41 +1,44 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sicheng+He)](https://git.io/typing-svg)
+<div id="title" align=center>
 
-Hello, I'm now a master's student at University of Southern California, majoring in Computer Science.
+# Sicheng He
 
-- My primary area of interest is Reinforcement Learning and its applications.
-- I use `Python` `C++`.
-- ~~I'm exploring the new features introduced in C++ 20/23.~~ I'm learning `Rust`.
+</div>
+
+Hello, I'm a master's student at University of Southern California, majoring in Computer Science.
+
+- My areas of interest lie in the fields of Reinforcement Learning and Robotics.
 - I'm peacefully solving LeetCode problems.
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hesic73&show_icons=true&hide_border=true" /> | <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=hesic73&hide=css,scss&exclude_repo=hesic73,blog,hesic73.github.io&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hesic73&show_icons=true&hide_border=true" /> | <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesic73&hide=html,css,scss&exclude_repo=hesic73,blog,hesic73.github.io&langs_count=5&layout=compact&hide_border=true" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 - [Curriculum Vitae](https://hesic73.github.io/assets/files/resume.pdf)
 - [Blog (in Chinese)](https://hesic73.github.io/blog/)
 
+<!--
 <a href="https://github.com/hesic73/gomoku_rl">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hesic73&repo=gomoku_rl&theme=buefy" />
 </a>
+-->
 
-## 📊 Metrics
+## :bar_chart: Metrics
 
-![](https://github.com/hesic73/hesic73/blob/main/github-metrics.svg)
+![](https://raw.githubusercontent.com/hesic73/hesic73/main/github-metrics.svg)
 
-## 🚀 Programming Languages
+## :speech_balloon: Programming Languages
 
-<p>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-</p>
-
+|Skill Level|Languages|
+|:---:|:---:|
+|Experienced|![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)|
+|Intermediate|![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)|
+|Novice|![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![Golang](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)|
 
 ## 💻 Technologies
 
 <p>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://github.com/hesic73/hesic73/blob/main/assets/markdown-fill-svgrepo-com.svg" width="40" height="40"/>
-<img src="https://github.com/detain/svg-logos/blob/master/svg/l/latex.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/hesic73/hesic73/main/assets/markdown-fill-svgrepo-com.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/l/latex.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" width="40" height="40"/>
 </p>
