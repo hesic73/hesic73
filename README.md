@@ -12,8 +12,12 @@ Hello, I'm a master's student at University of Southern California, majoring in 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=hesic73&show_icons=true&hide_border=true" /> | <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesic73&hide=html,css,scss&exclude_repo=hesic73,blog,hesic73.github.io&langs_count=5&layout=compact&hide_border=true" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-[<img src="https://img.shields.io/badge/-CV-blue?style=for-the-badge" />](https://hesic73.github.io/assets/files/resume.pdf) 
+[<img src="https://img.shields.io/badge/-CV-green?style=for-the-badge" />](https://hesic73.github.io/assets/files/resume.pdf) 
 [<img src="https://img.shields.io/badge/-Blog-red?style=for-the-badge" />](https://hesic73.github.io/blog/)
+[<img src="https://img.shields.io/badge/-LeetCode-black?style=for-the-badge" />](https://leetcode.com/hesicheng20/)
+[<img src="https://img.shields.io/badge/-Zhihu-1772f6?style=for-the-badge" />](https://www.zhihu.com/people/he-si-cheng/)
+[<img src="https://img.shields.io/badge/-Email-c71610?style=for-the-badge" />](mailto:hesicheng20@gmail.com)
+[<img src="https://img.shields.io/badge/-linkedin-0072b1?style=for-the-badge" />](https://www.linkedin.com/in/sicheng-he-b80a5028a/)
 
 <!--
 <a href="https://github.com/hesic73/gomoku_rl">
@@ -49,5 +53,22 @@ Hello, I'm a master's student at University of Southern California, majoring in 
   <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" width="40" height="40"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=hesic73)
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41cd52?style=for-the-badge&logo=Qt&logoColor=white)
+
+
+
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=hesic73)
