@@ -39,21 +39,6 @@ Hello, I'm a master's student at University of Southern California, majoring in 
 
 ## 💻 Technologies
 
-<p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/hesic73/hesic73/main/assets/markdown-fill-svgrepo-com.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/l/latex.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" width="40" height="40"/>
-</p>
-
-<p>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" width="40" height="40"/>
-</p>
-
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
