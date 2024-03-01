@@ -21,7 +21,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
-          repositories_skipped: hesic73.github.io, blog
+          repositories_skipped: hesic73.github.io, blog, resume
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_achievements: yes
