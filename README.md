@@ -22,13 +22,22 @@ Hello, I'm a master's student at University of Southern California, majoring in 
 ## Projects
 
 <table>
-<tr>
- <a href="https://github.com/hesic73/gomoku_rl"> <img align="center" style="padding=0;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hesic73&repo=gomoku_rl&theme=buefy" alt="gomoku_rl" /></a> 
-</tr>
-<tr>
- <a href="https://github.com/hesic73/QMuJoCoSim"> <img align="center" style="padding=0;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hesic73&repo=QMuJoCoSim&theme=buefy" alt="QMuJoCoSim" /></a> 
-</tr>
+  <tr>
+    <td>
+      <a href="https://github.com/hesic73/gomoku_rl">
+        <img align="center" style="width: 100%; padding: 0;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hesic73&repo=gomoku_rl&theme=buefy" alt="gomoku_rl" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/hesic73/QMuJoCoSim">
+        <img align="center" style="width: 100%; padding: 0;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hesic73&repo=QMuJoCoSim&theme=buefy" alt="QMuJoCoSim" />
+      </a>
+    </td>
+  </tr>
 </table>
+
 
 
 
