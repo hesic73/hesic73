@@ -16,28 +16,12 @@ Hello, I'm a master's student at University of Southern California, majoring in 
 - My areas of interest lie in the fields of Reinforcement Learning and Robotics.
 - I'm peacefully solving LeetCode problems.
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hesic73&show_icons=true&hide_border=true" /> | <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesic73&hide=html,css,scss,tex&exclude_repo=hesic73,blog,hesic73.github.io,resume&langs_count=5&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hesic73&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesic73&hide=html,css,scss,tex&exclude_repo=hesic73,blog,hesic73.github.io,resume&langs_count=5&layout=compact&hide_border=true" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-## Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/hesic73/gomoku_rl">
+<a href="https://github.com/hesic73/gomoku_rl">
         <img align="center" style="width: 100%; padding: 0;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hesic73&repo=gomoku_rl&theme=buefy" alt="gomoku_rl" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/hesic73/QMuJoCoSim">
-        <img align="center" style="width: 100%; padding: 0;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hesic73&repo=QMuJoCoSim&theme=buefy" alt="QMuJoCoSim" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+</a>
 
 
 
